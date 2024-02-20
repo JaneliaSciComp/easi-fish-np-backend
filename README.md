@@ -1,2 +1,2 @@
-# nf-starter-template
-Starter template for Nextflow pipelines
+# EASI-FISH-NO backend
+Backend processing for EASI-FISH NP
