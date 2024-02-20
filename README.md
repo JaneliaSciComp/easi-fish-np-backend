@@ -7,12 +7,16 @@
 Backend processing for EASI-FISH NP
 
 ## Setup instructions:
+```
    python -m venv venv
    source venv/bin/activate
    pip install --upgrade pip
    pip install -r requirements.txt
+```
 
 ## Run the program
+```
    python3.10 czi_json.py --file my_file.czi
+```
 
 The file *my_file.json* will be created
